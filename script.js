@@ -1,7 +1,6 @@
 function fibonacci(num) {
 // your code here
-	function fibonacci(num) {
-    if (num <= 0) return "Invalid input"; // Handling invalid input
+  if (num <= 0) return "Invalid input"; // Handling invalid input
     
     let fibArray = [0, 1];
     
